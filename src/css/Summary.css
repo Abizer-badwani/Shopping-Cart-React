@@ -1,0 +1,63 @@
+
+.summary{
+    background-color: #a9b9f9;
+    grid-row: 1 / -1;
+    grid-column: 7 / -1;
+    margin: 0 40px;
+    border-radius: 3px;
+}
+
+.summary .summary-title{
+    text-align: center;
+    font-size: 1.7rem;
+    color: #111;
+    text-transform: uppercase;
+    padding: 6%;
+}
+
+.order-table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order-table table{
+    width: 90%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.order-table table thead th{
+    padding: 4% 0 4% 2%;
+    text-transform: uppercase;
+    font-size: 1.1rem;  
+    color: #fff;
+    background-color: rgb(68, 74, 84);
+}
+
+.order-table table tbody td{
+    padding: 3% 3%;
+    text-transform: capitalize;
+    margin: 10px;
+
+}
+
+.order-table table tfoot td{
+    padding: 4% 0 4% 2%;
+    background-color: lightcoral;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.proceed-btn{
+    padding: 3%;
+    background-color: #c6f9a9;
+    color: #111;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10%;
+    border-radius: 30px;
+}

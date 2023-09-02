@@ -1,0 +1,25 @@
+.navbar{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    background-color: #a9a9f9;
+}
+
+.navbar input{
+    padding: 1%;
+    font-size: 1.1rem;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.cart-link{
+    background-color: #faf;
+    padding: 1% 2%;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+}

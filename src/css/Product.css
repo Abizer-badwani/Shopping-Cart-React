@@ -1,0 +1,43 @@
+.content{
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 1px;
+}
+
+.content img{
+    width: 100%;
+    object-fit: cover;
+    height: 55%;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.content .descript{
+    padding: 5%;
+}
+
+.descript p{
+    margin: 5% 0;
+}
+
+.btn{
+    margin: 15% 15% 0 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    padding: 5%;
+    cursor: pointer;
+}
+
+.add{
+    background-color: lightblue;
+    
+}
+.remove{
+    background-color: #fab;
+}
+
+.outstock{
+    background-color: #eee;
+}

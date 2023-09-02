@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Hot Coffee",
+            "price": 40,
+            "rating": 2,
+            "image": "https://images.unsplash.com/photo-1587080413959-06b859fb107d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y29mZmVlJTIwY3VwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+            "id": 2,
+            "name": "Cold Coffee",
+            "price": 80,
+            "rating": 4,
+            "image": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29sZCUyMGNvZmZlJTIwY3VwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+          },
+          {
+            "id": 3,
+            "name": "Milk Shake",
+            "price": 50,
+            "rating": 2,
+            "image": "https://images.unsplash.com/photo-1619158401201-8fa932695178?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWlsayUyMHNoYWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 4,
+            "name": "Banana Shake",
+            "price": 50,
+            "rating": 3,
+            "image": "https://images.unsplash.com/photo-1473115209096-e0375dd6b3b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJhbmFuYSUyMHNoYWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 5,
+            "name": "Strawberry Shake",
+            "price": 120,
+            "rating": 5,
+            "image": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3RyYXdiZXJyeSUyMHNoYWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 6,
+            "name": "Orange Juice",
+            "price": 40,
+            "rating": 4,
+            "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8anVpY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+            "id": 7,
+            "name": "WaterMelon Juice",
+            "price": 40,
+            "rating": 5,
+            "image": "https://images.unsplash.com/photo-1597306691225-69ef217a43cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0ZXJtZWxvbiUyMGp1aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+          },
+          {
+            "id": 8,
+            "name": "Lassi",
+            "price": 90,
+            "rating": 5,
+            "image": "https://images.unsplash.com/photo-1692620609860-be6717812f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFzc2l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 9,
+            "name": "Strawberry Cupcake",
+            "price": 150,
+            "rating": 3,
+            "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NzA0MTk5fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 10,
+            "name": "Sandwich",
+            "price": 70,
+            "rating": 3,
+            "image": "https://images.unsplash.com/photo-1540713434306-58505cf1b6fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2FuZHdpY2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        }
+    ]
+}
